@@ -1,0 +1,14 @@
+{
+    "name": "uniauth/php-sdk",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "Simon Asika",
+            "email": "asika32764@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
